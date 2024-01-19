@@ -31,11 +31,11 @@
    height: fit-content;
  }
  section {
-   margin: 0.5%;
+   margin: 10%;
  }
  .section__pic-container {
-   width: 275px;
-   height: 275px;
+   width: 280px;
+   height: 280px;
    margin: 0 auto 2rem;
  }
  .about-containers {
@@ -84,11 +84,11 @@
  }
  .section__pic-container {
    width: auto;
-   height: 46vw;
+   height: 75vw;
    justify-content: center;
  }
  .section__text__p2 {
-   font-size: 1rem;
+   font-size: 1.25rem;
  }
  .tittle {
    font-size: 2rem;
