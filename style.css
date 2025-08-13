@@ -268,9 +268,12 @@ section {
 }
 
 .about-containers {
-    gap: 2rem;
-    margin-bottom: 2rem;
-    margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;       
+  gap: 2rem;
+  margin: 2rem 0;
+  padding-left: 1rem;    
+  padding-right: 1rem;   
 }
 
 .about-details-container {
